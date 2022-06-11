@@ -51,3 +51,6 @@ May have several spare domains, for otstuk.
 About 400 injections for all countries/banks/cryptocurrency
 Disables Play Protect. Once disabled, it cannot be enabled.
 
+actual RAT for Android 7-12(13)
+source code
+500$
